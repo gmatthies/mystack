@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1335197460 source:c:\coding\gittest\stack\src\mystack.cpp
+	"..\include\mystack.h"
+
+1335197209 c:\coding\gittest\stack\include\mystack.h
+	<vector>
+
+1335197382 source:c:\coding\gittest\stack\main.cpp
+	<iostream>
+	".\include\mystack.h"
+
